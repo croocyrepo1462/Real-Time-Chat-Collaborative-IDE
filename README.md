@@ -27,12 +27,3 @@ A web-based collaborative code editor with built-in real-time chat functionality
 - Express  
 - Socket.IO (Server)
 
----
-
-## 🔧 Installation
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/croocyrepo1462/Real-Time-Chat-Collaborative-IDE.git
-cd Real-Time-Chat-Collaborative-IDE
